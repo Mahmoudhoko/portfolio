@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mahmoudhoko/portfolio.git/static/css/main.56d5432d.chunk.css",
+    "main.js": "/Mahmoudhoko/portfolio.git/static/js/main.af0c99f9.chunk.js",
+    "main.js.map": "/Mahmoudhoko/portfolio.git/static/js/main.af0c99f9.chunk.js.map",
+    "runtime-main.js": "/Mahmoudhoko/portfolio.git/static/js/runtime-main.1b936826.js",
+    "runtime-main.js.map": "/Mahmoudhoko/portfolio.git/static/js/runtime-main.1b936826.js.map",
+    "static/js/2.b85ddea7.chunk.js": "/Mahmoudhoko/portfolio.git/static/js/2.b85ddea7.chunk.js",
+    "static/js/2.b85ddea7.chunk.js.map": "/Mahmoudhoko/portfolio.git/static/js/2.b85ddea7.chunk.js.map",
+    "static/js/3.a56be298.chunk.js": "/Mahmoudhoko/portfolio.git/static/js/3.a56be298.chunk.js",
+    "static/js/3.a56be298.chunk.js.map": "/Mahmoudhoko/portfolio.git/static/js/3.a56be298.chunk.js.map",
+    "index.html": "/Mahmoudhoko/portfolio.git/index.html",
+    "static/css/main.56d5432d.chunk.css.map": "/Mahmoudhoko/portfolio.git/static/css/main.56d5432d.chunk.css.map",
+    "static/js/2.b85ddea7.chunk.js.LICENSE.txt": "/Mahmoudhoko/portfolio.git/static/js/2.b85ddea7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b936826.js",
+    "static/js/2.b85ddea7.chunk.js",
+    "static/css/main.56d5432d.chunk.css",
+    "static/js/main.af0c99f9.chunk.js"
+  ]
+}
